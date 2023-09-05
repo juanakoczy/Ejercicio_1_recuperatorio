@@ -30,7 +30,7 @@ int main() {
     printf ("\n");
 
 
-    Lista * listanueva =  diferencia(lista1, lista1);
+    Lista * listanueva =  diferencia(lista1, lista2);
 
     imprimir(listanueva);
 
