@@ -21,7 +21,6 @@ int main() {
     insertarOrdenado(lista2, newNodo(3));
     insertarOrdenado(lista2, newNodo(7));
     insertarOrdenado(lista2, newNodo(4));
-    insertarOrdenado(lista2, newNodo(5));
     insertarOrdenado(lista2, newNodo(6));
     insertarOrdenado(lista2, newNodo(8));
 

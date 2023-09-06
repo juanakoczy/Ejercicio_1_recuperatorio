@@ -26,7 +26,7 @@ Nodo * newNodo(int dato) {
 Lista * newLista (){
 
     Lista * aux = NULL;
-    aux = malloc (sizeof(newLista));
+    aux = malloc (sizeof(Lista));
 
     if (aux == NULL){
         printf ("No hay espacio de memoria suficiente.");
